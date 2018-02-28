@@ -1,1 +1,1 @@
-# ClientProj
+# Visualizing Makerspaces Project 
